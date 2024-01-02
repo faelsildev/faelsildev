@@ -1,5 +1,6 @@
 
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=faelsildev&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=faelsildev&theme=github-dark&mode=weekly" />
+
  
  &nbsp;
  &nbsp;
