@@ -1,5 +1,5 @@
 <div align = "center">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=faelsildev&theme=github-dark&mode=weekly"/>
+<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=faelsildev&theme=github-dark&mode=weekly"/>
 </div>
  
  &nbsp;
